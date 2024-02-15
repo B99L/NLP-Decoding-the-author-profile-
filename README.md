@@ -1,4 +1,5 @@
-# NLP
+# NLP-An analysis of the writing styles and
+topic preferences of three authors
 
 This work analyzes the individual
 writing styles and themes of Markus Brotschi,
